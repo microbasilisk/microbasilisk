@@ -53,12 +53,13 @@ Organization     Let Africa Build (LAB)
 
 ---
 
-## Competition Wins
+## Competition Wins (~$600 BTC)
 
 | Day | Skill | PR | What It Does |
 |-----|-------|----|--------------|
 | Day 3 | hodlmm-bin-guardian | [#39](https://github.com/BitflowFinance/bff-skills/pull/39) | Real-time HODLMM bin drift detection and LP range monitoring |
-| Day 4 | hermetica-yield-rotator | [#56](https://github.com/BitflowFinance/bff-skills/pull/56) | Automated yield rotation across Hermetica vaults |
+| Day 4 | hermetica-yield-rotator | [#56](https://github.com/BitflowFinance/bff-skills/pull/56) | Cross-protocol yield rotation across Hermetica and HODLMM |
+| Day 14 | HODLMM Move-Liquidity & Auto-Rebalancer | [#231](https://github.com/BitflowFinance/bff-skills/pull/231) | Atomic HODLMM rebalancer — 5/5 Implementation Fidelity |
 
 ---
 
@@ -80,9 +81,11 @@ LAB Agent          Monitors Let-Africa-Build-LAB org repos
 <div align="center">
 
 ```text
-Leaderboard      #11 / 200+ correspondents
-Streak           8 days
-Total Signals    37
+Leaderboard      #6 / 357 correspondents
+Score            850
+Streak           15 days
+Total Signals    78
+Brief Inclusions 10 (300,000 sats)
 Beats Covered    9
 ```
 
