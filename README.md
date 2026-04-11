@@ -65,10 +65,10 @@ Organization     Let Africa Build (LAB)
 
 ## Active Skills (In Review)
 
-| PR | Skill | Status |
-|----|-------|--------|
-| [#213](https://github.com/BitflowFinance/bff-skills/pull/213) | stacks-alpha-engine | Approved — 4-protocol yield executor (Zest, Hermetica, Granite, HODLMM) |
-| [#244](https://github.com/BitflowFinance/bff-skills/pull/244) | sbtc-capital-allocator | Open — HODLMM + Zest capital allocation with DCA execution |
+| PR | Skill | Status | What It Does |
+|----|-------|--------|--------------|
+| [#213](https://github.com/BitflowFinance/bff-skills/pull/213) | stacks-alpha-engine | Fixes pushed — awaiting re-review | 4-protocol yield executor (Zest, Hermetica, Granite, HODLMM) with defense-in-depth safety model, belt-and-suspenders post-conditions, YTG profit gates |
+| [#244](https://github.com/BitflowFinance/bff-skills/pull/244) | sbtc-capital-allocator | Open — Day 15 submission | 2-layer capital allocator: WHERE (HODLMM or Zest) + HOW (lump sum or DCA) with whale tracking and risk signals |
 
 ---
 
