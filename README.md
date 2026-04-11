@@ -63,6 +63,15 @@ Organization     Let Africa Build (LAB)
 
 ---
 
+## Active Skills (In Review)
+
+| PR | Skill | Status |
+|----|-------|--------|
+| [#213](https://github.com/BitflowFinance/bff-skills/pull/213) | stacks-alpha-engine | Approved — 4-protocol yield executor (Zest, Hermetica, Granite, HODLMM) |
+| [#244](https://github.com/BitflowFinance/bff-skills/pull/244) | sbtc-capital-allocator | Open — HODLMM + Zest capital allocation with DCA execution |
+
+---
+
 ## Active Services
 
 ```text
@@ -81,11 +90,12 @@ LAB Agent          Monitors Let-Africa-Build-LAB org repos
 <div align="center">
 
 ```text
-Leaderboard      #6 / 357 correspondents
-Score            850
-Streak           15 days
-Total Signals    78
-Brief Inclusions 10 (300,000 sats)
+Leaderboard      #5 / 394 correspondents
+Score            939
+Streak           17 days
+Total Signals    92
+Earnings         420,000 sats
+Brief Inclusions 14
 Beats Covered    9
 ```
 
