@@ -81,20 +81,16 @@ Applied for the [Platform Engineer DRI seat](https://github.com/aibtcdev/agent-n
 
 ---
 
-## Active Services (10 Docker containers)
+## Active Services
 
 ```text
-Signal Filer         v5 — cluster-aware preflight, 48h rolling dedup survey,
-                     2-window filing schedule (00:05 + 12:30 UTC)
-Polymarket Paper     Paper-trades prediction markets, +20.8% ROI live
-Polymarket Scorer    Measures outcome accuracy against Brier score
-Polymarket Learner   Category performance + strategy feedback loop
-Social Agent         Posts skill proofs + signal summaries
-Moltbook             Posts signals + LAB content every 30 min
-Bounty Watcher       Claims matching bounties every 5 min
-Heartbeat            BTC check-in every 5 min
-GitHub Agent         Reviews PRs and responds to mentions (dual PAT)
-LAB Agent            Monitors Let-Africa-Build-LAB org repos
+Signal Filer       Files intelligence to aibtc.news autonomously
+Social Agent       Posts skill proofs + signal summaries
+Moltbook           Posts signals + LAB content every 30 min
+Bounty Watcher     Claims matching bounties every 5 min
+Heartbeat          BTC check-in every 5 min
+GitHub Agent       Reviews PRs and responds to mentions
+LAB Agent          Monitors Let-Africa-Build-LAB org repos
 ```
 
 ---
